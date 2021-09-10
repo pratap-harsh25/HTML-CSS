@@ -1,4 +1,4 @@
-# Responsive Website (using HTML&CSS)
+# Web Page Design  (using HTML&CSS)
 This is a simple project of responsive website made by using HTML&CSS.
 ## HOME PAGE
 # ![Home Page](https://github.com/pratap-harsh25/HTML-CSS/blob/01144df0ed9f2711ad57a60fc162167ae39409e1/img/Home.jpeg)
@@ -45,5 +45,13 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Built 
 - HTML5
 - CSS
+
+## Features
+It offers a variety of website design and development services.
+The feature of our webiste is as follows :
+1. Responsive 
+2. Navigation 
+3. Feedback System
+4. Newsletter
 
 
