@@ -1,7 +1,7 @@
 # Responsive Website (using HTML&CSS)
 This is a simple project of responsive website made by using HTML&CSS.
 ## HOME PAGE
-# ![About](https://github.com/pratap-harsh25/HTML-CSS/blob/cd9730a8961f95fc2dcd56955551948815358519/img/About.PNG)
+# ![Home Page](https://github.com/pratap-harsh25/HTML-CSS/blob/01144df0ed9f2711ad57a60fc162167ae39409e1/img/Home.jpeg)
 ### ABOUT
 # ![About](https://github.com/pratap-harsh25/HTML-CSS/blob/cd9730a8961f95fc2dcd56955551948815358519/img/About.PNG)
 ### SERVICES
