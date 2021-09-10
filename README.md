@@ -9,5 +9,4 @@ I have used basic html tags to make this website.
   * Div
   * Nav
   * Footer   
-
  For the CSS Part, classes and id selector is used for styling and to make website responsive Media Query is used.</p>
