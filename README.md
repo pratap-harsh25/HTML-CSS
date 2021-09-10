@@ -2,7 +2,7 @@
 This is a simple project of responsive website made by using HTML&CSS.
 # Description
 This project is beginner level project. For the forks who had just started their journey in Web Development, must do this basic project.
-To keep it simple and understandable for everyone.
+To keep it simple and understandable for everyone.<br>
 I have used basic html tags to make this website.<br>
 1.Header
 2.Section
