@@ -48,7 +48,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Features
 It offers a variety of website design and development services.
-The feature of our webiste is as follows :
+The feature of our website is as follows :
 1. Responsive 
 2. Navigation 
 3. Feedback System
